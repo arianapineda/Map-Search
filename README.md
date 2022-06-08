@@ -1,5 +1,5 @@
 # Map-Search
-Searches a street map to find a route from a start point to an end point.
+This script searches a street map to find a route from a start point to an end point.
 
 Implements Breadth-First Search, Recursive Depth-First Search, and A* Search in stacks, graphs, and queues. 
 
